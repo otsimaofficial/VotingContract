@@ -1,7 +1,3 @@
-Sure! Here's a well-structured and professional `README.md` file for your **Nigeria Election Voting Smart Contract**, tailored for clarity and developer usability.
-
----
-
 ## 🗳️ Nigeria Election Voting Smart Contract
 
 A robust and secure smart contract built in Solidity to simulate the Nigerian presidential election process. This system enforces voter validation (age, location, card expiry), prevents double voting, and supports gender/location-based vote statistics. It also uses role-based access control without external dependencies like OpenZeppelin.
